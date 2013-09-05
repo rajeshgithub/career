@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Table>
+<Row varName='ex_1'>
+	<ID>1000</ID>
+	<Title>Read at least 5 books (fiction) in year</Title>
+	<Value>1</Value>
+	<Varvalue>1</Varvalue>
+</Row>
+<Row varName='ex_2'>
+	<ID>1001</ID>
+	<Title>Read 2+ news papers every day</Title>
+	<Value>2</Value>
+	<Varvalue>2</Varvalue>
+</Row>
+<Row varName='ex_3'>
+	<ID>1002</ID>
+	<Title>Read at least one magazine a day</Title>
+	<Value>3</Value>
+	<Varvalue>3</Varvalue>
+</Row>
+<Row varName='ex_4'>
+	<ID>1003</ID>
+	<Title>Read at least 5 books (non-fiction) in year</Title>
+	<Value>4</Value>
+	<Varvalue>4</Varvalue>
+</Row>
+<Row varName='ex_5'>
+	<ID>1004</ID>
+	<Title>Know how to play chess well</Title>
+	<Value>5</Value>
+	<Varvalue>5</Varvalue>
+</Row>
+<Row varName='ex_6'>
+	<ID>1005</ID>
+	<Title>Like traveling to places</Title>
+	<Value>6</Value>
+	<Varvalue>6</Varvalue>
+</Row>
+<Row varName='ex_7'>
+	<ID>1006</ID>
+	<Title>Listen to music (Western)</Title>
+	<Value>7</Value>
+	<Varvalue>7</Varvalue>
+</Row>
+<Row varName='ex_8'>
+	<ID>1007</ID>
+	<Title>Play musical instrument(s)</Title>
+	<Value>8</Value>
+	<Varvalue>8</Varvalue>
+</Row>
+<Row varName='ex_9'>
+	<ID>1008</ID>
+	<Title>Go to dance classes</Title>
+	<Value>9</Value>
+	<Varvalue>9</Varvalue>
+</Row>
+<Row varName='ex_10'>
+	<ID>1009</ID>
+	<Title>Listen to music (Indian classical)</Title>
+	<Value>10</Value>
+	<Varvalue>10</Varvalue>
+</Row>
+<Row varName='ex_11'>
+	<ID>1010</ID>
+	<Title>Travel to new place at least once a year</Title>
+	<Value>11</Value>
+	<Varvalue>11</Varvalue>
+</Row>
+<Row varName='ex_12'>
+	<ID>1011</ID>
+	<Title>Have lot of friends</Title>
+	<Value>12</Value>
+	<Varvalue>12</Varvalue>
+</Row>
+<Row varName='ex_13'>
+	<ID>1012</ID>
+	<Title>Collect things (stamps/coins/cards/anything)</Title>
+	<Value>13</Value>
+	<Varvalue>13</Varvalue>
+</Row>
+<Row varName='ex_14'>
+	<ID>1013</ID>
+	<Title>Listen to music (Indian filmi)</Title>
+	<Value>14</Value>
+	<Varvalue>14</Varvalue>
+</Row>
+<Row varName='ex_15'>
+	<ID>1014</ID>
+	<Title>Follow cricket</Title>
+	<Value>15</Value>
+	<Varvalue>15</Varvalue>
+</Row>
+<Row varName='ex_16'>
+	<ID>1015</ID>
+	<Title>Play chess regularly</Title>
+	<Value>16</Value>
+	<Varvalue>16</Varvalue>
+</Row>
+<Row varName='ex_17'>
+	<ID>1016</ID>
+	<Title>Know how to play poker</Title>
+	<Value>17</Value>
+	<Varvalue>17</Varvalue>
+</Row>
+<Row varName='ex_18'>
+	<ID>1017</ID>
+	<Title>Drink every week</Title>
+	<Value>18</Value>
+	<Varvalue>18</Varvalue>
+</Row>
+<Row varName='ex_19'>
+	<ID>1018</ID>
+	<Title>Smoke regularly</Title>
+	<Value>19</Value>
+	<Varvalue>19</Varvalue>
+</Row>
+<Row varName='ex_20'>
+	<ID>1019</ID>
+	<Title>Go to pubs every week with friends</Title>
+	<Value>20</Value>
+	<Varvalue>20</Varvalue>
+</Row>
+<Row varName='ex_21'>
+	<ID>1020</ID>
+	<Title>Like spending time at home</Title>
+	<Value>21</Value>
+	<Varvalue>21</Varvalue>
+</Row>
+<Row varName='ex_22'>
+	<ID>1021</ID>
+	<Title>Like playing soccer</Title>
+	<Value>22</Value>
+	<Varvalue>22</Varvalue>
+</Row>
+<Row varName='ex_23'>
+	<ID>1022</ID>
+	<Title>Go to the gym regularly</Title>
+	<Value>23</Value>
+	<Varvalue>23</Varvalue>
+</Row>
+<Row varName='ex_24'>
+	<ID>1023</ID>
+	<Title>Do yoga regularly</Title>
+	<Value>24</Value>
+	<Varvalue>24</Varvalue>
+</Row>
+<Row varName='ex_25'>
+	<ID>1024</ID>
+	<Title>You like everything to be organised/planned</Title>
+	<Value>25</Value>
+	<Varvalue>25</Varvalue>
+</Row>
+<Row varName='ex_26'>
+	<ID>1025</ID>
+	<Title>You are very punctual</Title>
+	<Value>26</Value>
+	<Varvalue>26</Varvalue>
+</Row>
+</Table>

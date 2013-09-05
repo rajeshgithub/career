@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Table>
+ <Row>
+    <ID>1001</ID>
+    <Title>Male</Title>
+    <Value>1</Value>
+    <Status>00</Status>
+  </Row>
+  <Row>
+    <ID>1002</ID>
+    <Title>Female</Title>
+    <Value>2</Value>
+    <Status>00</Status>
+  </Row>
+</Table>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Table>
+<Row varName="var_10_5" varLabel="">
+	<ID>1000</ID>
+	<Title>Yes</Title>
+	<Value>1</Value>
+	<Status>00</Status>
+</Row>
+<Row varName="var_10_5" varLabel="">
+	<ID>1001</ID>
+	<Title>No</Title>
+	<Value>2</Value>
+	<Status>00</Status>
+</Row>
+</Table>

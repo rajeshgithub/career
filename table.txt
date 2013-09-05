@@ -1,0 +1,42 @@
+CREATE TABLE `jc_career_data` (
+  `id` int(11) NOT NULL auto_increment,
+  `ip` varchar(25) default NULL,
+  `session_id` varchar(50) default NULL,
+  `emailid` varchar(100) default NULL,
+  `uname` varchar(255) default NULL,
+  `linkedin` varchar(255) default NULL,
+  `twitter` varchar(255) default NULL,
+  `quora` varchar(255) default NULL,
+  `fb_friends` varchar(5) default NULL,
+  `location` varchar(5) default NULL,
+  `loc_reason` text default NULL,
+  
+  `job_1` varchar(5) default NULL,
+  `job_2` varchar(5) default NULL,
+  `job_3` varchar(5) default NULL,
+  `job_4` varchar(5) default NULL,
+  `job_5` varchar(5) default NULL,
+  `job_6` varchar(5) default NULL,
+  
+  `res_1` varchar(5) default NULL,
+  `res_2` varchar(5) default NULL,
+  `res_3` varchar(5) default NULL,
+  `res_4` varchar(5) default NULL,
+  `res_5` varchar(5) default NULL,
+  `res_6` varchar(5) default NULL,
+  `res_7` varchar(5) default NULL,
+  
+  `know_juxt` text default NULL,
+  `why_apply` text default NULL,
+  `bis_nature` text default NULL,
+  `interest` text default NULL,
+  `work_skill` text default NULL,
+  `add_value` text default NULL,
+  `why_hire` text default NULL,
+  `exp_salary` varchar(25) default NULL,
+  `join_time` varchar(5) default NULL,
+  
+  `Page1` varchar(2) default NULL,
+  `submit_time_page1` datetime default NULL,
+   UNIQUE KEY `id` (`id`)
+) ENGINE=MyISAM DEFAULT CHARSET=latin1;

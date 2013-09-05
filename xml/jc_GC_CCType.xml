@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Table>
+	<Row>
+		<ID>1000</ID>
+		<Title>Co-branded</Title>
+		<Value>1</Value>
+		<Status>00</Status>
+		<Edit_Date>11/7/2008 6:37:49 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1001</ID>
+		<Title>Silver</Title>
+		<Value>2</Value>
+		<Status>00</Status>
+		<Edit_Date>11/7/2008 6:37:49 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1002</ID>
+		<Title>Gold</Title>
+		<Value>3</Value>
+		<Status>00</Status>
+		<Edit_Date>11/7/2008 6:37:49 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1003</ID>
+		<Title>Platinum</Title>
+		<Value>4</Value>
+		<Status>00</Status>
+		<Edit_Date>11/7/2008 6:37:49 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1004</ID>
+		<Title>Titanium</Title>
+		<Value>5</Value>
+		<Status>00</Status>
+		<Edit_Date>11/7/2008 6:37:49 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1005</ID>
+		<Title>Supplementary Card</Title>
+		<Value>6</Value>
+		<Status>00</Status>
+		<Edit_Date>11/7/2008 6:37:49 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1006</ID>
+		<Title>Don't Own Credit Card </Title>
+		<Value>99</Value>
+		<Status>00</Status>
+		<Edit_Date>11/7/2008 6:37:49 PM</Edit_Date>
+	</Row>
+
+	
+</Table>

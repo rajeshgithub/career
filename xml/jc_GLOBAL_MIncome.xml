@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Table>
+<Row>
+		<ID>1000</ID>
+		<Title>Less than Rs 6250</Title>
+		<Value>1</Value>
+		<Status>00</Status>
+		<Edit_Date>11/21/2008 3:49:29 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1001</ID>
+		<Title>Rs 6250 - Rs 12500</Title>
+		<Value>2</Value>
+		<Status>00</Status>
+		<Edit_Date>11/21/2008 3:49:29 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1002</ID>
+		<Title>Rs 12500 - Rs 25000</Title>
+		<Value>3</Value>
+		<Status>00</Status>
+		<Edit_Date>11/21/2008 3:49:29 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1003</ID>
+		<Title>Rs 25000 - Rs 40000</Title>
+		<Value>4</Value>
+		<Status>00</Status>
+		<Edit_Date>11/21/2008 3:49:29 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1004</ID>
+		<Title>Rs 40000 - Rs 80000</Title>
+		<Value>5</Value>
+		<Status>00</Status>
+		<Edit_Date>11/21/2008 3:49:29 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1005</ID>
+		<Title>Rs 80000 - Rs 100,000</Title>
+		<Value>6</Value>
+		<Status>00</Status>
+		<Edit_Date>11/21/2008 3:49:29 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1000</ID>
+		<Title>1 - 3 Lakhs</Title>
+		<Value>7</Value>
+		<Status>00</Status>
+		<Edit_Date>11/21/2008 3:49:29 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1001</ID>
+		<Title>3 - 5 Lakhs</Title>
+		<Value>9</Value>
+		<Status>00</Status>
+		<Edit_Date>11/21/2008 3:49:29 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1002</ID>
+		<Title>More than 5 Lakhs</Title>
+		<Value>10</Value>
+		<Status>00</Status>
+		<Edit_Date>11/21/2008 3:49:29 PM</Edit_Date>
+	</Row>
+		<Row>
+		<ID>1007</ID>
+		<Title>Prefer not to say</Title>
+		<Value>8</Value>
+		<Status>00</Status>
+		<Edit_Date>11/21/2008 3:49:29 PM</Edit_Date>
+	</Row>
+</Table>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Table>
+<Row varName="a4_1" varLabel="">
+	<ID>1000</ID>
+	<Title>Desktop/Computer</Title>
+	<Value>1</Value>
+	<Status>00</Status>
+</Row>
+<Row varName="a4_2" varLabel="">
+	<ID>1001</ID>
+	<Title>Laptop</Title>
+	<Value>2</Value>
+	<Status>00</Status>
+</Row>
+<Row varName="a4_3" varLabel="">
+	<ID>1002</ID>
+	<Title>Tablet/Pads</Title>
+	<Value>3</Value>
+	<Status>00</Status>
+</Row>
+<Row varName="a4_4" varLabel="">
+	<ID>1003</ID>
+	<Title>Mobile Handset</Title>
+	<Value>4</Value>
+	<Status>00</Status>
+</Row>
+</Table>

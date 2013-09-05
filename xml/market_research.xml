@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Table>
+<Row varName='res_1'>
+	<ID>1000</ID>
+	<Title>Secondary market research</Title>
+	<Value>1</Value>
+	<Varvalue>1</Varvalue>
+</Row>
+<Row varName='res_2'>
+	<ID>1001</ID>
+	<Title>Online primary quantitative market research</Title>
+	<Value>2</Value>
+	<Varvalue>2</Varvalue>
+</Row>
+<Row varName='res_3'>
+	<ID>1002</ID>
+	<Title>Face to face primary quantitative market research</Title>
+	<Value>3</Value>
+	<Varvalue>3</Varvalue>
+</Row>
+<Row varName='res_4'>
+	<ID>1003</ID>
+	<Title>Online qualitative market research</Title>
+	<Value>4</Value>
+	<Varvalue>4</Varvalue>
+</Row>
+<Row varName='res_5'>
+	<ID>1004</ID>
+	<Title>Face to face qualitative market research</Title>
+	<Value>5</Value>
+	<Varvalue>5</Varvalue>
+</Row>
+<Row varName='res_6'>
+	<ID>1005</ID>
+	<Title>Social observation based media market research</Title>
+	<Value>6</Value>
+	<Varvalue>6</Varvalue>
+</Row>
+<Row varName='res_7'>
+	<ID>1006</ID>
+	<Title>Higher order analytics</Title>
+	<Value>7</Value>
+	<Varvalue>7</Varvalue>
+</Row>
+</Table>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Table>
+	<Row>
+		<ID>1000</ID>
+		<Title>Single/Unmarried</Title>
+		<Value>1</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 6:05:40 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1001</ID>
+		<Title>Married without children
+</Title>
+		<Value>2</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 6:05:40 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1002</ID>
+		<Title>Married with children
+</Title>
+		<Value>3</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 6:05:40 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1003</ID>
+		<Title>Separated/Divorced without children
+</Title>
+		<Value>4</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 6:05:40 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1004</ID>
+		<Title>Separated/Divorced with children
+</Title>
+		<Value>5</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 6:05:40 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1005</ID>
+		<Title>Widow without children</Title>
+		<Value>6</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 6:05:40 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1006</ID>
+		<Title>Widow with children</Title>
+		<Value>7</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 6:05:40 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1006</ID>
+		<Title>Unmarried but in live-in relationship</Title>
+		<Value>8</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 6:05:40 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1006</ID>
+		<Title>Unmarried but in romantic realtionship</Title>
+		<Value>9</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 6:05:40 PM</Edit_Date>
+	</Row>
+</Table>

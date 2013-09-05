@@ -1,0 +1,299 @@
+/*
+SECTION,QUESTION,ANSWER
+------------------------
+#5BBD6E,#B9FFC6,#8BEB9D	(Green)
+
+#5BBD6E,#DEF2E2,#ADDEB7 (Green)
+
+#0099FF,#CCEBFF,#7FCCFF (Blue)
+
+#1E90FF,#D2E9FF,#8FC8FF (Blue)
+
+#FF836D,#FFE0DA,#FFB1A3 (Red)
+
+#EE82EE,#FCE6FC,#F7C1F7 (Pink)
+
+#CD853F,#F5E7D9,#E6C29F (Brown)
+
+#BA55D3,#F1DDF6,#DDAAE9 (Purple)
+
+#D2B48C,#F6F0E8,#E9DAC5 (Light Brown)
+
+#D9610B,#F7DFCE,#ECB085 (Dark Orange)
+
+#FF7C0B,#FFD291,#FFBE62 (Light Orange)
+
+#A9A9A9,#EEEEEE,#D4D4D4	(light Gray)
+
+#808080,#E2E2E2,#D4D0C8	(Dark Gray)
+
+#778899,#E4E7EB,#BBC4CC (Dark Gray)
+*/
+
+html
+{
+	overflow-y:scroll;
+}
+
+.normText,.forewhite,.textbox,.backwhite,.bluetext,.smallText
+{
+	font-family: verdana;
+	font-size:12px;
+}
+
+.normText
+{
+	text-decoration:none;
+	color:#000000;
+	line-height: 25px;
+}
+
+.smallText
+{
+	text-decoration:none;
+	color:#000000;
+	font-size:11px;
+	font-style:bold;
+}
+
+body
+{
+	margin-top:10;
+	padding:0;
+	font-family: verdana;
+	font-size:12px;
+}
+
+.Sec1
+{
+	font-family: verdana;
+	font-size: 14px;
+	color:#FFFFFF;
+	padding: 5px 5px 5px 5px;
+	height:20px;
+	font-weight: bold;
+	background-color: #FF9933;
+	text-align: left;
+}
+
+.Que1
+{
+	font-family: verdana;
+	font-size: 12px;
+	color:#333333;
+	padding: 2px 2px 2px 5px;
+	background-color: #FFE0C2;
+	text-align: left;
+	height:25px;
+}
+
+.Ans1
+{
+	font-family: verdana;
+	font-size: 12px;
+	color:#333333;
+	padding: 3px 2px 2px 3px;
+	background-color: #FFCC99;
+	text-align: left;
+	height:25px;
+}
+
+.Sec2
+{
+	font-family: verdana;
+	font-size: 14px;
+	color:#FFFFFF;
+	padding: 5px 5px 5px 5px;
+	height:20px;
+	font-weight: bold;
+	background-color: #5BBD6E;
+	text-align: left;
+}
+
+.Que2
+{
+	font-family: verdana;
+	font-size: 12px;
+	color:#333333;
+	padding: 2px 2px 2px 5px;
+	background-color: #DEF2E2;
+	text-align: left;
+	height:25px;
+}
+
+.Ans2
+{
+	font-family: verdana;
+	font-size: 12px;
+	color:#333333;
+	padding: 3px 2px 2px 3px;
+	background-color: #ADDEB7;
+	text-align: left;
+	height:25px;
+}
+
+.dropdown,.dropdown1,.dropdown2,.dropdown3,.dropdown4,.dropdownsfont
+{
+  font-family: verdana;
+  font-size:12px;
+  border:1px solid;
+  border-color:#626262;
+  height:20px;
+  padding: 1px 1px 1px 1px;
+}
+
+.dropdownsfont
+{
+	font-size:11px;
+}
+
+.dropdown1
+{
+  width:250px;
+}
+
+.dropdown2
+{
+  width:280px;
+}
+
+.dropdown3
+{
+  width:200px;
+}
+
+
+.dropdown4
+{
+  width:200px;
+}
+
+.btn
+{
+  padding: 5px 5px 5px 5px;
+  text-align:center;
+}
+
+.textbox
+{
+	border:1px solid;
+	border-color:#626262;
+	height:20px;
+}
+
+.textboxa
+{
+	font-family: verdana;
+	font-size:15px;
+	border:1px solid;
+	border-color:#626262;
+}
+
+.textbox1
+{
+	border:1px solid;
+	border-color:#626262;
+	height:20px;
+	color:#a0a0a0;
+}
+
+.button
+{
+	color:#000000;
+}
+
+.errText
+{
+	font-family: verdana;
+	font-size:15px;
+	color:#FFFFFF;
+	background-color:#D33D3D;
+}
+
+.forewhite
+{
+	color:#FFFFFF;
+}
+
+.formsetting
+{
+	margin:0;
+	padding:0;
+}
+
+.msgText
+{
+	font-weight:bold;
+	color:#FF0000 ;
+	border:1px dotted #FF0000;
+	background-color:#FFFFFF;
+}
+
+.backwhite
+{
+	background-color:#FFFFFF;
+}
+
+.bluetext
+{
+	color:#0000FF;
+	font-size:11px;
+	font-style:italic;
+}
+
+.redtext
+{
+	color:#FF0000;
+	font-weight:bold;
+}
+/* Admin page css */
+.tdhead
+{
+	background-color:#828282;
+	color:#FFFFFF;
+	font-size:12px;
+	font-weight:bold;
+}
+
+.tophead
+{
+	background-color:#FFFFFF;
+	font-size:12px;
+}
+
+.tdempty
+{
+	background-color:#43a746;
+	font-size:12px;
+	color:#FF0000;
+	text-align:center;
+}
+
+.tdfilled
+{
+	background-color:#FFFFFF;
+	font-size:12px;
+	text-align:center;
+}
+
+.exist
+{
+	display:none;
+	font-size:14px;
+	color:#fff;
+	width:900px;	
+	background-color:#f00;
+	font-weight:bold
+}
+.cl1
+{
+	background-color:#f6d0aa;
+}
+.cl2
+{
+	background-color:#f4c08d;
+}
+.cl3
+{
+	background-color:#f5a14d;
+}

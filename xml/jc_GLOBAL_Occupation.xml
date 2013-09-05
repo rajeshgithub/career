@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Table>
+<Row>
+	<ID>1000</ID>
+	<Title>Student</Title>
+	<Value>16</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1001</ID>
+	<Title>Unemployed but searching for job</Title>
+	<Value>19</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1002</ID>
+	<Title>Clerical/salesman (Salaried)</Title>
+	<Value>11</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1003</ID>
+	<Title>Supervisory level (Salaried)</Title>
+	<Value>12</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1004</ID>
+	<Title>Junior level officer/executive (Salaried)</Title>
+	<Value>13</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1005</ID>
+	<Title>Middle level officer/executive (Salaried)</Title>
+	<Value>14</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1006</ID>
+	<Title>Senior level officer/executive (Salaried)</Title>
+	<Value>15</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1007</ID>
+	<Title>Self-employed professional</Title>
+	<Value>10</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1008</ID>
+	<Title>Businessman with no employee</Title>
+	<Value>5</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1009</ID>
+	<Title>Businessman/industrialist with 1-5 employees</Title>
+	<Value>6</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1010</ID>
+	<Title>Businessman/industrialist with 6-10 employees</Title>
+	<Value>7</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1011</ID>
+	<Title>Businessman/industrialist with 10-50 employees</Title>
+	<Value>8</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1012</ID>
+	<Title>Businessman/industrialist with 50+ employees</Title>
+	<Value>9</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1013</ID>
+	<Title>Unskilled worker</Title>
+	<Value>1</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1014</ID>
+	<Title>Skilled worker</Title>
+	<Value>2</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1015</ID>
+	<Title>Petty Trader</Title>
+	<Value>3</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1016</ID>
+	<Title>Shop owners/trader</Title>
+	<Value>4</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1017</ID>
+	<Title>Housewife</Title>
+	<Value>18</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1017</ID>
+	<Title>Retired</Title>
+	<Value>17</Value>
+	<Status>00</Status>
+</Row>
+
+	<Row>
+	<ID>1018</ID>
+	<Title>Unable to work due to health/other reason</Title>
+	<Value>20</Value>
+	<Status>00</Status>
+</Row>
+</Table>

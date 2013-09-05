@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Table>
+	<Row>
+		<ID>1000</ID>
+		<Title>Husband</Title>
+		<Value>1</Value>
+		<Status>00</Status>
+		<Edit_Date>5/26/2008 7:10:26 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1001</ID>
+		<Title>Wife</Title>
+		<Value>2</Value>
+		<Status>00</Status>
+		<Edit_Date>5/26/2008 7:10:26 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1002</ID>
+		<Title>Son</Title>
+		<Value>3</Value>
+		<Status>00</Status>
+		<Edit_Date>5/26/2008 7:10:26 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1003</ID>
+		<Title>Daughter</Title>
+		<Value>4</Value>
+		<Status>00</Status>
+		<Edit_Date>5/26/2008 7:10:26 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1004</ID>
+		<Title>Son in law</Title>
+		<Value>5</Value>
+		<Status>00</Status>
+		<Edit_Date>5/26/2008 7:10:26 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1005</ID>
+		<Title>Daughter in law </Title>
+		<Value>6</Value>
+		<Status>00</Status>
+		<Edit_Date>5/26/2008 7:10:26 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1006</ID>
+		<Title>Brother</Title>
+		<Value>7</Value>
+		<Status>00</Status>
+		<Edit_Date>5/26/2008 7:10:26 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1007</ID>
+		<Title>Sister</Title>
+		<Value>8</Value>
+		<Status>00</Status>
+		<Edit_Date>5/26/2008 7:10:26 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1008</ID>
+		<Title>Father</Title>
+		<Value>9</Value>
+		<Status>00</Status>
+		<Edit_Date>5/26/2008 7:10:26 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1009</ID>
+		<Title>Mother</Title>
+		<Value>10</Value>
+		<Status>00</Status>
+		<Edit_Date>5/26/2008 7:10:26 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1010</ID>
+		<Title>Father-in-law</Title>
+		<Value>11</Value>
+		<Status>00</Status>
+		<Edit_Date>5/26/2008 7:10:26 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1011</ID>
+		<Title>Mother-in-law</Title>
+		<Value>12</Value>
+		<Status>00</Status>
+		<Edit_Date>5/26/2008 7:10:26 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1012</ID>
+		<Title>Brother-in-law</Title>
+		<Value>19</Value>
+		<Status>00</Status>
+		<Edit_Date>5/26/2008 7:10:26 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1013</ID>
+		<Title>Sister-in-law</Title>
+		<Value>20</Value>
+		<Status>00</Status>
+		<Edit_Date>5/26/2008 7:10:26 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1014</ID>
+		<Title>Grand Father</Title>
+		<Value>13</Value>
+		<Status>00</Status>
+		<Edit_Date>5/26/2008 7:10:26 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1015</ID>
+		<Title>Grand Mother</Title>
+		<Value>14</Value>
+		<Status>00</Status>
+		<Edit_Date>5/26/2008 7:10:27 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1016</ID>
+		<Title>Uncle</Title>
+		<Value>15</Value>
+		<Status>00</Status>
+		<Edit_Date>5/26/2008 7:10:27 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1017</ID>
+		<Title>Aunty</Title>
+		<Value>16</Value>
+		<Status>00</Status>
+		<Edit_Date>5/26/2008 7:10:27 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1018</ID>
+		<Title>Niece</Title>
+		<Value>17</Value>
+		<Status>00</Status>
+		<Edit_Date>5/26/2008 7:10:27 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1019</ID>
+		<Title>Nephew</Title>
+		<Value>18</Value>
+		<Status>00</Status>
+		<Edit_Date>5/26/2008 7:10:27 PM</Edit_Date>
+	</Row>
+	
+	<Row>
+		<ID>1021</ID>
+		<Title> Sister in law (Brother's wife)</Title>
+		<Value>22</Value>
+		<Status>00</Status>
+		<Edit_Date>5/26/2008 7:10:27 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1022</ID>
+		<Title> Sister in law (Wife's sister)</Title>
+		<Value>23</Value>
+		<Status>00</Status>
+		<Edit_Date>5/26/2008 7:10:27 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1022</ID>
+		<Title> Sister in law (Brother in law's wife)</Title>
+		<Value>24</Value>
+		<Status>00</Status>
+		<Edit_Date>5/26/2008 7:10:27 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1023</ID>
+		<Title> Sister in law (Husband's sister)</Title>
+		<Value>25</Value>
+		<Status>00</Status>
+		<Edit_Date>5/26/2008 7:10:27 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1024</ID>
+		<Title> Brother in law (Sister's Husband)</Title>
+		<Value>26</Value>
+		<Status>00</Status>
+		<Edit_Date>5/26/2008 7:10:27 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1025</ID>
+		<Title> Brother in law (Husband's brother)</Title>
+		<Value>27</Value>
+		<Status>00</Status>
+		<Edit_Date>5/26/2008 7:10:27 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1026</ID>
+		<Title> Brother in law (Sister in law's husband)</Title>
+		<Value>28</Value>
+		<Status>00</Status>
+		<Edit_Date>5/26/2008 7:10:27 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1028</ID>
+		<Title> Brother in law (Wife's brother)</Title>
+		<Value>29</Value>
+		<Status>00</Status>
+		<Edit_Date>5/26/2008 7:10:27 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1029</ID>
+		<Title> Grandchildren </Title>
+		<Value>30</Value>
+		<Status>00</Status>
+		<Edit_Date>5/26/2008 7:10:27 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1030</ID>
+		<Title> Other Relatives </Title>
+		<Value>31</Value>
+		<Status>00</Status>
+		<Edit_Date>5/26/2008 7:10:27 PM</Edit_Date>
+	</Row>
+</Table>
+

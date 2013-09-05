@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Table>
+<Row>
+	<ID>1000</ID>
+	<Title>Basic mobile</Title>
+	<Value>1</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1001</ID>
+	<Title>Dual SIM</Title>
+	<Value>2</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1003</ID>
+	<Title>Multimedia</Title>
+	<Value>3</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1002</ID>
+	<Title>Touch screen</Title>
+	<Value>4</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1003</ID>
+	<Title>Android</Title>
+	<Value>5</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1003</ID>
+	<Title>Smartphone</Title>
+	<Value>6</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1003</ID>
+	<Title>iPhone</Title>
+	<Value>7</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1003</ID>
+	<Title>Blackberry</Title>
+	<Value>8</Value>
+	<Status>00</Status>
+</Row>
+</Table>

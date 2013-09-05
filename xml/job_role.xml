@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Table>
+<Row varName='job_1'>
+	<ID>1000</ID>
+	<Title>Market Research Services</Title>
+	<Value>1</Value>
+	<Varvalue>1</Varvalue>
+</Row>
+<Row varName='job_2'>
+	<ID>1001</ID>
+	<Title>Data Processing/Tabbing</Title>
+	<Value>2</Value>
+	<Varvalue>2</Varvalue>
+</Row>
+<Row varName='job_3'>
+	<ID>1002</ID>
+	<Title>Technology (Programming)</Title>
+	<Value>3</Value>
+	<Varvalue>3</Varvalue>
+</Row>
+<Row varName='job_4'>
+	<ID>1003</ID>
+	<Title>Technology (Server side)</Title>
+	<Value>4</Value>
+	<Varvalue>4</Varvalue>
+</Row>
+<Row varName='job_5'>
+	<ID>1004</ID>
+	<Title>Technology (Database)</Title>
+	<Value>5</Value>
+	<Varvalue>5</Varvalue>
+</Row>
+<Row varName='job_6'>
+	<ID>1005</ID>
+	<Title>Support (Finance)</Title>
+	<Value>6</Value>
+	<Varvalue>6</Varvalue>
+</Row>
+</Table>

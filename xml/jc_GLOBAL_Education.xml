@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Table>
+<Row>
+	<ID>1000</ID>
+	<Title>Illiterate</Title>
+	<Value>26</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1001</ID>
+	<Title>School Upto 4 years</Title>
+	<Value>27</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1002</ID>
+	<Title>School 5-9 years</Title>
+	<Value>28</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1003</ID>
+	<Title>High School/ Higher Secondary</Title>
+	<Value>1</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1004</ID>
+	<Title>Intermediate/Senior Secondary</Title>
+	<Value>2</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1005</ID>
+	<Title>Polytechnic/Diploma</Title>
+	<Value>3</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1006</ID>
+	<Title>BA</Title>
+	<Value>4</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1007</ID>
+	<Title>BSc</Title>
+	<Value>5</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1008</ID>
+	<Title>BCom</Title>
+	<Value>6</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1009</ID>
+	<Title>BBA</Title>
+	<Value>7</Value>
+	<Status>00</Status>
+</Row>
+	<Row>
+		<ID>1009</ID>
+		<Title>BCA</Title>
+		<Value>8</Value>
+		<Status>00</Status>
+	</Row>
+<Row>
+	<ID>1011</ID>
+	<Title>BE/BTech</Title>
+	<Value>9</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1012</ID>
+	<Title>LLB</Title>
+	<Value>10</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1013</ID>
+	<Title>MA</Title>
+	<Value>11</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1014</ID>
+	<Title>MSc</Title>
+	<Value>12</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1015</ID>
+	<Title>MCom</Title>
+	<Value>13</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1016</ID>
+	<Title>CA/ICWA/CS</Title>
+	<Value>14</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1017</ID>
+	<Title>PG Diploma</Title>
+	<Value>15</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1018</ID>
+	<Title>MBA</Title>
+	<Value>19</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1019</ID>
+	<Title>MCA</Title>
+	<Value>17</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1020</ID>
+	<Title>MTech</Title>
+	<Value>18</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1021</ID>
+	<Title>MBBS</Title>
+	<Value>19</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1022</ID>
+	<Title>MS/MD</Title>
+	<Value>20</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1023</ID>
+	<Title>LLM</Title>
+	<Value>21</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1024</ID>
+	<Title>Mphil</Title>
+	<Value>22</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1025</ID>
+	<Title>PhD General</Title>
+	<Value>23</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1026</ID>
+	<Title>PhD Professional</Title>
+	<Value>29</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1027</ID>
+	<Title>Civil services(IAS/IPS/IRS/IFS)</Title>
+	<Value>24</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1028</ID>
+	<Title>Other</Title>
+	<Value>25</Value>
+	<Status>00</Status>
+</Row>
+</Table>

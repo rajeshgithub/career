@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Items>
+	<Item>
+		<ID>1000</ID>
+		<Title>Unskilled Worker
+</Title>
+		<Value>1</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 6:45:29 PM</Edit_Date>
+	</Item>
+	<Item>
+		<ID>1001</ID>
+		<Title>Skilled Worker
+</Title>
+		<Value>2</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 6:45:29 PM</Edit_Date>
+	</Item>
+	<Item>
+		<ID>1002</ID>
+		<Title>Petty Trader
+</Title>
+		<Value>3</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 6:45:29 PM</Edit_Date>
+	</Item>
+	<Item>
+		<ID>1003</ID>
+		<Title>Shop Owner
+</Title>
+		<Value>4</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 6:45:29 PM</Edit_Date>
+	</Item>
+	
+	<Item>
+		<ID>1004</ID>
+		<Title>Businessman/Industrialist (with no employee)
+</Title>
+		<Value>5</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 6:45:29 PM</Edit_Date>
+	</Item>
+	<Item>
+		<ID>1005</ID>
+		<Title>Businessman/Industrialist (1-9 employees)
+</Title>
+		<Value>6</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 6:45:29 PM</Edit_Date>
+	</Item>
+	<Item>
+		<ID>1006</ID>
+		<Title>Businessman/Industrialist (10+ employees)
+</Title>
+		<Value>7</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 6:45:29 PM</Edit_Date>
+	</Item>
+	<Item>
+		<ID>1007</ID>
+		<Title>Self employed professional
+</Title>
+		<Value>8</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 6:45:29 PM</Edit_Date>
+	</Item>
+	<Item>
+		<ID>1008</ID>
+		<Title>Clerical/Salesman
+</Title>
+		<Value>9</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 6:45:29 PM</Edit_Date>
+	</Item>
+	<Item>
+		<ID>1009</ID>
+		<Title>Supervisory level
+</Title>
+		<Value>10</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 6:45:29 PM</Edit_Date>
+	</Item>
+	<Item>
+		<ID>1010</ID>
+		<Title>Officer/Executive (Junior)
+</Title>
+		<Value>11</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 6:45:29 PM</Edit_Date>
+	</Item>
+	<Item>
+		<ID>1011</ID>
+		<Title>Officer/Executive (Middle/Senior)
+</Title>
+		<Value>12</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 6:45:29 PM</Edit_Date>
+	</Item>
+</Items>

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Table>
+	<Row>
+		<ID>1000</ID>
+		<Title>Assamese
+</Title>
+		<Value>9</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 7:26:58 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1001</ID>
+		<Title>Awadhi
+</Title>
+		<Value>12</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 7:26:58 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1002</ID>
+		<Title>Bengali
+</Title>
+		<Value>3</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 7:26:58 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1003</ID>
+		<Title>Bhojpuri
+</Title>
+		<Value>4</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 7:26:58 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1004</ID>
+		<Title>Bodo
+</Title>
+		<Value>5</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 7:26:58 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1005</ID>
+		<Title>Bundeli
+</Title>
+		<Value>6</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 7:26:58 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1006</ID>
+		<Title>Chhattisgarhi
+</Title>
+		<Value>7</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 7:26:58 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1007</ID>
+		<Title>Dogri
+</Title>
+		<Value>8</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 7:26:58 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1008</ID>
+		<Title>English
+</Title>
+		<Value>1</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 7:26:59 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1009</ID>
+		<Title>Gujarati
+</Title>
+		<Value>10</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 7:26:59 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1010</ID>
+		<Title>Haryanvi
+</Title>
+		<Value>11</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 7:26:59 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1011</ID>
+		<Title>Hindi
+</Title>
+		<Value>2</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 7:26:59 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1012</ID>
+		<Title>Kanauji
+</Title>
+		<Value>14</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 7:26:59 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1013</ID>
+		<Title>Kannada
+</Title>
+		<Value>13</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 7:26:59 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1014</ID>
+		<Title>Kashmiri
+</Title>
+		<Value>15</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 7:26:59 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1015</ID>
+		<Title>Konkani
+</Title>
+		<Value>16</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 7:26:59 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1016</ID>
+		<Title>Kurchi
+</Title>
+		<Value>17</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 7:26:59 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1017</ID>
+		<Title>Magahi
+</Title>
+		<Value>23</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 7:26:59 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1018</ID>
+		<Title>Maithili
+</Title>
+		<Value>18</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 7:26:59 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1019</ID>
+		<Title>Malayalam
+</Title>
+		<Value>19</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 7:26:59 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1020</ID>
+		<Title>Manipuri
+</Title>
+		<Value>20</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 7:26:59 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1021</ID>
+		<Title>Marathi
+</Title>
+		<Value>22</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 7:26:59 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1022</ID>
+		<Title>Marwari
+</Title>
+		<Value>21</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 7:26:59 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1023</ID>
+		<Title>Nepali
+</Title>
+		<Value>24</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 7:26:59 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1024</ID>
+		<Title>Oriya
+</Title>
+		<Value>25</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 7:26:59 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1025</ID>
+		<Title>Punjabi
+</Title>
+		<Value>26</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 7:26:59 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1026</ID>
+		<Title>Sanskrit
+</Title>
+		<Value>27</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 7:26:59 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1027</ID>
+		<Title>Santhali
+</Title>
+		<Value>28</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 7:26:59 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1028</ID>
+		<Title>Sindhi
+</Title>
+		<Value>29</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 7:26:59 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1029</ID>
+		<Title>Tamil
+</Title>
+		<Value>30</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 7:26:59 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1030</ID>
+		<Title>Telugu
+</Title>
+		<Value>32</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 7:26:59 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1031</ID>
+		<Title>Tulu
+</Title>
+		<Value>31</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 7:27:00 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1032</ID>
+		<Title>Urdu
+</Title>
+		<Value>33</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 7:27:00 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1033</ID>
+		<Title>Others
+</Title>
+		<Value>34</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 7:27:00 PM</Edit_Date>
+	</Row>
+</Table>

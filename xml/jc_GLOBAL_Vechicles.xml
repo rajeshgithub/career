@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Table>
+	<Row>
+		<ID>1001</ID>
+		<Title>Motor-Cycle/Scooter</Title>
+		<Value>1</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 6:21:25 PM</Edit_Date>
+	</Row>	
+	<Row>
+		<ID>1001</ID>
+		<Title>Small Car (Up to Rs.4 lakhs)</Title>
+		<Value>2</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 6:21:25 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1002</ID>
+		<Title>Mid-Size Car (Rs.4 to 8 lakhs)</Title>
+		<Value>3</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 6:21:25 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1003</ID>
+		<Title>Luxury car (Above Rs. 8 lakhs)</Title>
+		<Value>4</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 6:21:25 PM</Edit_Date>
+	</Row>
+	
+	<Row>
+		<ID>1004</ID>
+		<Title>MUV/SUV</Title>
+		<Value>5</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 6:21:25 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1005</ID>
+		<Title>Others</Title>
+		<Value>97</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 6:21:25 PM</Edit_Date>
+	</Row>
+	<Row>
+		<ID>1006</ID>
+		<Title>Don't own a vehicle</Title>
+		<Value>99</Value>
+		<Status>00</Status>
+		<Edit_Date>5/22/2008 6:21:25 PM</Edit_Date>
+	</Row>
+</Table>

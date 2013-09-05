@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Table>
+<Row>
+	<ID>1000</ID>
+	<Title>Immediate</Title>
+	<Value>1</Value>
+	<Varvalue>1</Varvalue>
+</Row>
+<Row>
+	<ID>1001</ID>
+	<Title>1 month</Title>
+	<Value>2</Value>
+	<Varvalue>2</Varvalue>
+</Row>
+<Row>
+	<ID>1002</ID>
+	<Title>3 months</Title>
+	<Value>3</Value>
+	<Varvalue>3</Varvalue>
+</Row>
+<Row>
+	<ID>1003</ID>
+	<Title>6 months</Title>
+	<Value>4</Value>
+	<Varvalue>4</Varvalue>
+</Row>
+<Row>
+	<ID>1004</ID>
+	<Title>You will tell us only after receiving the offer</Title>
+	<Value>5</Value>
+	<Varvalue>5</Varvalue>
+</Row>
+</Table>

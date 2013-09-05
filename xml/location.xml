@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Table>
+<Row>
+	<ID>1000</ID>
+	<Title>Ok to locate to Delhi</Title>
+	<Value>1</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1001</ID>
+	<Title>Bangalore is better</Title>
+	<Value>2</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1003</ID>
+	<Title>Chennai is better</Title>
+	<Value>3</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1002</ID>
+	<Title>Hyderabad is better</Title>
+	<Value>4</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1003</ID>
+	<Title>Mumbai is better</Title>
+	<Value>5</Value>
+	<Status>00</Status>
+</Row>
+<Row>
+	<ID>1003</ID>
+	<Title>Others</Title>
+	<Value>97</Value>
+	<Status>00</Status>
+</Row>
+</Table>
