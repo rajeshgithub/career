@@ -72,17 +72,17 @@ Mrutyunjay
 </TABLE>
 
 <TABLE width="900px" cellpadding="0" cellspacing="0" border="0">
-<TR><TD class="Sec2">About you</TD></TR>
+<TR><TD class="Sec1">About you</TD></TR>
 </TABLE>
 
 <TABLE width="900px" border="0" cellpadding="0" cellspacing="1" class="backwhite">
 	<TR>
-		<TD width="113" class="Que2">Name</TD>
-		<TD width="292" class="Ans2">
+		<TD width="113" class="Que1">Name</TD>
+		<TD width="292" class="Ans1">
 			<INPUT type="text" name="uname" id="uname" class="textbox" size="30" />
 		</TD>
-		<TD width="53" class="Que2">Email-Id</TD>
-		<TD width="157" class="Ans2">
+		<TD width="53" class="Que1">Email-Id</TD>
+		<TD width="157" class="Ans1">
 		<INPUT type="textbox" name="emailid" id="emailid" class="textbox" size="45"/>
 		</TD>
 	</TR>
@@ -90,31 +90,31 @@ Mrutyunjay
 
 <TABLE width="900px" border="0" cellpadding="0" cellspacing="1" class="backwhite">
 	<TR>
-		<TD class="Que2" colspan="2">
+		<TD class="Que1" colspan="2">
 		Your social presence (if you don't specify then we will assume you don't have one and the consequence thereof. Its ok, don't create one now.):
 		</TD>
 	</TR>
 	<TR>
-		<TD width="113" class="Que2">Your Linkedin public profile link</TD>
-		<TD width="292" class="Ans2">
+		<TD width="113" class="Que1">Your Linkedin public profile link</TD>
+		<TD width="292" class="Ans1">
 			<INPUT type="text" name="linkedin" id="linkedin" class="textbox" size="30" />
 		</TD>
 	</TR>	
 	<TR>
-		<TD width="113" class="Que2">Your Twitter handle</TD>
-		<TD width="292" class="Ans2">
+		<TD width="113" class="Que1">Your Twitter handle</TD>
+		<TD width="292" class="Ans1">
 			<INPUT type="text" name="twitter" id="twitter" class="textbox" size="30" />
 		</TD>
 	</TR>	
 	<TR>
-		<TD width="113" class="Que2">Your Quora handle</TD>
-		<TD width="292" class="Ans2">
+		<TD width="113" class="Que1">Your Quora handle</TD>
+		<TD width="292" class="Ans1">
 			<INPUT type="text" name="quora" id="quora" class="textbox" size="30" />
 		</TD>
 	</TR>	
 	<TR>
-		<TD width="113" class="Que2">Number of facebook friends you have</TD>
-		<TD width="292" class="Ans2">
+		<TD width="113" class="Que1">Number of facebook friends you have</TD>
+		<TD width="292" class="Ans1">
 			<INPUT type="text" name="fb_friends" id="fb_friends" class="textbox" size="30" />
 		</TD>
 	</TR>		
@@ -122,8 +122,8 @@ Mrutyunjay
 
 <TABLE width="900px" border="0" cellpadding="0" cellspacing="1"  class="backwhite">
 	<TR>
-		<TD class="Que2" width="461">Are you open to relocate to Delhi?</TD>
-		<TD class="Ans2" width="436">
+		<TD class="Que1" width="461">Are you open to relocate to Delhi?</TD>
+		<TD class="Ans1" width="436">
 		<?php
 		AddDropDown("location.xml","location");
 		?>
@@ -134,10 +134,10 @@ Mrutyunjay
 <DIV id="div_other_loc" style="display:none;">
 <TABLE width="900px" border="0" cellpadding="0" cellspacing="1"  class="backwhite">
 	<TR>
-		<TD class="Que2">Please specify detailed reason for choosing this city?</TD>
+		<TD class="Que1">Please specify detailed reason for choosing this city?</TD>
 	</TR>
 	<TR>
-		<TD class="Ans2">
+		<TD class="Ans1">
 		<textarea rows="2" cols="108" name="loc_reason" id="loc_reason"></textarea>
 		</TD>
 	</TR>
@@ -147,12 +147,12 @@ Mrutyunjay
 
 <TABLE width="900px" cellpadding="0" cellspacing="1" border="0" class="backwhite">
 	<TR>
-		<TD class="Que2" width="900px">What all internet activities do you currently undertake from your mobile?</TD>
+		<TD class="Que1" width="900px">What all internet activities do you currently undertake from your mobile?</TD>
 	</TR>
 	<TR>
-		<TD class="Ans2" width="900px">
+		<TD class="Ans1" width="900px">
 		<?php
-		AddCheckBox("job_role.xml",'N',"Ans2","#FFB37F","1","0","2","3",'100%','',false,'','1');
+		AddCheckBox("job_role.xml",'N',"Ans1","#FFB37F","1","0","2","3",'100%','',false,'','1');
 		?>
 		</TD>
 	</TR>
@@ -161,12 +161,12 @@ Mrutyunjay
 <DIV id="div_research" style="display:none;">
 <TABLE width="900px" cellpadding="0" cellspacing="1" border="0" class="backwhite">
 	<TR>
-		<TD class="Que2" width="900px">Your interest areas in Market Research Service?</TD>
+		<TD class="Que1" width="900px">Your interest areas in Market Research Service?</TD>
 	</TR>
 	<TR>
-		<TD class="Ans2" width="900px">
+		<TD class="Ans1" width="900px">
 		<?php
-		AddCheckBox("market_research.xml",'N',"Ans2","#FFB37F","1","0","4","2",'100%','',false,'','1');
+		AddCheckBox("market_research.xml",'N',"Ans1","#FFB37F","1","0","4","2",'100%','',false,'','1');
 		?>
 		</TD>
 	</TR>
@@ -174,55 +174,55 @@ Mrutyunjay
 </DIV>
 
 <TABLE width="900px" cellpadding="0" cellspacing="0" border="0">
-<TR><TD class="Sec2">Help us know you better</TD></TR>
+<TR><TD class="Sec1">Help us know you better</TD></TR>
 </TABLE>
 
 <TABLE width="900px" border="0" cellpadding="0" cellspacing="1"  class="backwhite">
 	<TR>
-		<TD class="Que2" width="450">How did you come to know about <b>Juxt</b>?</TD>
-		<TD class="Ans2">
+		<TD class="Que1" width="450">How did you come to know about <b>Juxt</b>?</TD>
+		<TD class="Ans1">
 		<textarea rows="1" cols="51" name="know_juxt" id="know_juxt"></textarea>
 		</TD>
 	</TR>
 	<TR>
-		<TD class="Que2" width="450">Why did you decide to apply to <b>Juxt</b>?<br/><span class="bluetext">&nbsp;(Eg. Is it part of a regular job search you are doing or you have reason for applying to Juxt? What reason?) (we love long answers)</span></TD>
-		<TD class="Ans2">
+		<TD class="Que1" width="450">Why did you decide to apply to <b>Juxt</b>?<br/><span class="bluetext">&nbsp;(Eg. Is it part of a regular job search you are doing or you have reason for applying to Juxt? What reason?) (we love long answers)</span></TD>
+		<TD class="Ans1">
 		<textarea rows="1" cols="51" name="why_apply" id="why_apply"></textarea>
 		</TD>
 	</TR>
 	<TR>
-		<TD class="Que2" width="450">What is it that you know about <b>Juxt</b>?<br/><span class="bluetext">&nbsp;(Eg. Nature of our business? What is that we do a regular basis? In your perception, how big is the team?) (we love long answers)</span></TD>
-		<TD class="Ans2">
+		<TD class="Que1" width="450">What is it that you know about <b>Juxt</b>?<br/><span class="bluetext">&nbsp;(Eg. Nature of our business? What is that we do a regular basis? In your perception, how big is the team?) (we love long answers)</span></TD>
+		<TD class="Ans1">
 		<textarea rows="1" cols="51" name="bis_nature" id="bis_nature"></textarea>
 		</TD>
 	</TR>
 	<TR>
-		<TD class="Que2" width="450">Why are you interested in market research?<br/><span class="bluetext">&nbsp;(We love long answers, we also have a dictionary of answers built through this question)</span></TD>
-		<TD class="Ans2">
+		<TD class="Que1" width="450">Why are you interested in market research?<br/><span class="bluetext">&nbsp;(We love long answers, we also have a dictionary of answers built through this question)</span></TD>
+		<TD class="Ans1">
 		<textarea rows="1" cols="51" name="interest" id="interest"></textarea>
 		</TD>
 	</TR>
 	<TR>
-		<TD class="Que2" width="450">What all work are you good at?<br/><span class="bluetext">&nbsp;(You can create list including everything on earth you think you are good at, including digging a right size whole to plant a banana tree) (List as many as you can, must fill an A4 size page)</span></TD>
-		<TD class="Ans2">
+		<TD class="Que1" width="450">What all work are you good at?<br/><span class="bluetext">&nbsp;(You can create list including everything on earth you think you are good at, including digging a right size whole to plant a banana tree) (List as many as you can, must fill an A4 size page)</span></TD>
+		<TD class="Ans1">
 		<textarea rows="1" cols="51" name="work_skill" id="work_skill"></textarea>
 		</TD>
 	</TR>
 	<TR>
-		<TD class="Que2" width="450">How do you think you can add value at <b>Juxt</b>?<br/><span class="bluetext">&nbsp;(We love long but straight, well thought through answers)</span></TD>
-		<TD class="Ans2">
+		<TD class="Que1" width="450">How do you think you can add value at <b>Juxt</b>?<br/><span class="bluetext">&nbsp;(We love long but straight, well thought through answers)</span></TD>
+		<TD class="Ans1">
 		<textarea rows="1" cols="51" name="add_value" id="add_value"></textarea>
 		</TD>
 	</TR>
 	<TR>
-		<TD class="Que2" width="450">Why <b>Juxt</b> should hire you?<br/><span class="bluetext">&nbsp;(We love long answers but you better be candid)</span></TD>
-		<TD class="Ans2">
+		<TD class="Que1" width="450">Why <b>Juxt</b> should hire you?<br/><span class="bluetext">&nbsp;(We love long answers but you better be candid)</span></TD>
+		<TD class="Ans1">
 		<textarea rows="1" cols="51" name="why_hire" id="why_hire"></textarea>
 		</TD>
 	</TR>
 	<TR>
-		<TD class="Que2" width="450">Your expected salary per month (in hand after tax)?<br/><span class="bluetext">&nbsp;(we want a short answer, after tax in hand per month number in INR)</span></TD>
-		<TD class="Ans2">
+		<TD class="Que1" width="450">Your expected salary per month (in hand after tax)?<br/><span class="bluetext">&nbsp;(we want a short answer, after tax in hand per month number in INR)</span></TD>
+		<TD class="Ans1">
 		<INPUT type="text" name="exp_salary" id="exp_salary" class="textbox" size="30" />
 		</TD>
 	</TR>
@@ -230,8 +230,8 @@ Mrutyunjay
 
 <TABLE width="900px" border="0" cellpadding="0" cellspacing="1"  class="backwhite">
 	<TR>
-		<TD class="Que2" width="550">If you are selected, after the interview process, how quickly will you be able to join?</TD>
-		<TD class="Ans2" width="350">
+		<TD class="Que1" width="550">If you are selected, after the interview process, how quickly will you be able to join?</TD>
+		<TD class="Ans1" width="350">
 		<?php
 		AddDropDown("join_time.xml","join_time");
 		?>
@@ -241,12 +241,12 @@ Mrutyunjay
 
 <TABLE width="900px" cellpadding="0" cellspacing="1" border="0" class="backwhite">
 	<TR>
-		<TD class="Que2" width="900px">Your interest areas in Market Research Service?</TD>
+		<TD class="Que1" width="900px">Your interest areas in Market Research Service?</TD>
 	</TR>
 	<TR>
-		<TD class="Ans2" width="900px">
+		<TD class="Ans1" width="900px">
 		<?php
-		AddCheckBox("explain_you.xml",'N',"Ans2","#FFB37F","1","0","9","3",'100%','',false,'','1');
+		AddCheckBox("explain_you.xml",'N',"Ans1","#FFB37F","1","0","9","3",'100%','',false,'','1');
 		?>
 		</TD>
 	</TR>
